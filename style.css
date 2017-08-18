@@ -398,7 +398,8 @@ div.gallery {
     margin: 5px;
     float: left;
     width: 180px;
-    color: white;
+    color: black;
+    font-weight: bold;
     padding: 20px;
 
 }
