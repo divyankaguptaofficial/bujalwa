@@ -70,48 +70,48 @@ nav {
 }
 
 .navbar1 {
-	color: #fff;
+	color: #ECF0F1;
 	font-size: 30px;
 	text-decoration: none;
-	margin-left: 160px;
+	margin-left: 200px;
 	margin-right: 0px;
 	text-shadow: gray 2px 2px 4px;
 }
 
 .navbar1:hover {
-	color: #3a2cd3;
+	color: #7294e9;
 
 }
 
 .navbar4 {
-	color: #fff;
+	color: #ECF0F1;
 	font-size: 30px;
 	text-decoration: none;
 	margin-left: 50px;
-	margin-right: 70px;
+	margin-right: 40px;
 	text-shadow: gray 2px 2px 4px;
 }
 
 .navbar4:hover {
-	color: #3a2cd3;
+	color: #7294e9;
 }
 
 .navbar2 {
-	color: #fff;
+	color: #ECF0F1;
 	font-size: 30px;
 	text-decoration: none;
-	margin-left: 60px;
+	margin-left: 90px;
 	margin-right: 40px;
 	text-shadow: gray 2px 2px 4px;
 }
 
 .navbar2:hover {
-	color: #3a2cd3;
+	color: #7294e9;
 
 }
 
 .navbar3 {
-	color: #fff;
+	color: #ECF0F1;
 	font-size: 30px;
 	text-decoration: none;
 	text-shadow: gray 2px 2px 4px;
@@ -119,7 +119,7 @@ nav {
 }
 
 .navbar3:hover {
-	color: #3a2cd3;
+	color: #7294e9;
 }
 
 .dropbtn {
@@ -237,7 +237,7 @@ h2 {
 }
 
 h3 {
-	color: white;
+	color: #ECF0F1;
 	font-size: 90px;
 	text-align: center;
 	text-shadow: gray 1px 1px 3px;
@@ -249,7 +249,7 @@ h3 {
 p {
   text-align: center;
   font-size: 80px;
-  color: #3c36d0;
+  color: #7294e9;
   
   
 }
@@ -376,7 +376,7 @@ p {
 
 .years {
 	text-align: left;
-	color: #3c36d0;
+	color: #7294e9;
 	padding-bottom: 30px;
 	font-size: 30px;
 	text-decoration: none;
@@ -384,7 +384,7 @@ p {
 }
 
 .years:hover {
-	color: white;
+	color: #ECF0F1;
 }
 
 
