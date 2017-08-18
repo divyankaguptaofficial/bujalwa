@@ -238,7 +238,7 @@ h2 {
 
 h3 {
 	color: #ECF0F1;
-	font-size: 90px;
+	font-size: 100px;
 	text-align: center;
 	text-shadow: gray 1px 1px 3px;
 	font-family: 'Permanent Marker', cursive;
@@ -411,4 +411,8 @@ div.gallery img {
 div.desc {
     padding: 15px;
     text-align: center;
+}
+
+.homegrid:hover {
+	opacity: .8;
 }
