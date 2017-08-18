@@ -7,7 +7,7 @@ body{
 
 
 .main {
-	background-color: black;
+	background-color: #ECF0F1;
 }
 
 
@@ -21,7 +21,8 @@ body{
 
 .top {
 	height: 10px;
-	background-color: black;
+	margin-top: -10px;
+	background-color: #ECF0F1;
 }
 
 
@@ -41,7 +42,7 @@ body{
 	margin: auto;
 	width: 180px;
 	height: 200px;
-	margin-top: -15px;
+	padding-top: 10px;
 
 
 }
@@ -70,10 +71,11 @@ nav {
 }
 
 .navbar1 {
-	color: #ECF0F1;
+	font-weight: bold;
+	color: black;
 	font-size: 30px;
 	text-decoration: none;
-	margin-left: 200px;
+	margin-left: 180px;
 	margin-right: 0px;
 	text-shadow: gray 2px 2px 4px;
 }
@@ -84,11 +86,12 @@ nav {
 }
 
 .navbar4 {
-	color: #ECF0F1;
+	font-weight: bold;
+	color: black;
 	font-size: 30px;
 	text-decoration: none;
 	margin-left: 50px;
-	margin-right: 40px;
+	margin-right: 70px;
 	text-shadow: gray 2px 2px 4px;
 }
 
@@ -97,7 +100,8 @@ nav {
 }
 
 .navbar2 {
-	color: #ECF0F1;
+	font-weight: bold;
+	color: black;
 	font-size: 30px;
 	text-decoration: none;
 	margin-left: 90px;
@@ -111,7 +115,8 @@ nav {
 }
 
 .navbar3 {
-	color: #ECF0F1;
+	font-weight: bold;
+	color: black;
 	font-size: 30px;
 	text-decoration: none;
 	text-shadow: gray 2px 2px 4px;
@@ -209,7 +214,7 @@ nav {
 }
 
 .countdown {
-	background-color: black;
+	background-color: #ECF0F1;
 	padding-top: 30px;
 	
 
@@ -218,7 +223,7 @@ nav {
 h1 {
 	color: #900C3F;
 	padding-top: 5px;
-	font-size: 70px;
+	font-size: 45px;
 	text-align: center;
 	text-shadow: gray 1px 1px 3px;
 	outline: 10px white;
@@ -228,16 +233,8 @@ font-family: 'Coda', cursive;
 
 }
 
-h2 {
-	color: #F3EC9D;
-	font-size: 40px;
-	text-align: center;
-	text-shadow: gray 1px 1px 3px;
-	outline: 10px white;
-}
-
 h3 {
-	color: #ECF0F1;
+	color: black;
 	font-size: 100px;
 	text-align: center;
 	text-shadow: gray 1px 1px 3px;
@@ -249,14 +246,14 @@ h3 {
 p {
   text-align: center;
   font-size: 80px;
-  color: #7294e9;
+  color: black;
   
   
 }
 
 .stagehomeimage {
 	width: 100%;
-	padding-top: 20px;
+	margin-bottom: -5px;
 }
 
 
@@ -340,27 +337,33 @@ p {
 
 .space {
 	height: 5px;
-	background-color: white;
+	background-color: #ECF0F1;
 }
 
 
 .space1 {
 	height: 2800px;
-	background-color: black;
+	background-color: #ECF0F1;
 }
 
 .space2 {
 	height: 30px;
-	background-color: black;
+	background-color: #ECF0F1;
 }
 
 .space3 {
 	height: 80px;
-	background-color: black;
+	background-color: #ECF0F1;
 }
 
 .space4 {
 	height: 0px;
+	background-color: #ECF0F1;
+}
+
+.space5 {
+	height: 5px;
+	margin-top: -10px;
 	background-color: black;
 }
 
@@ -376,7 +379,8 @@ p {
 
 .years {
 	text-align: left;
-	color: #7294e9;
+	font-weight: bold;
+	color: #900C3F;
 	padding-bottom: 30px;
 	font-size: 30px;
 	text-decoration: none;
@@ -384,7 +388,7 @@ p {
 }
 
 .years:hover {
-	color: #ECF0F1;
+	color: black;
 }
 
 
