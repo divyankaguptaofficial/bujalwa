@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["weUOl"]); }
+
+__d('AdsVideoDialogFilterConstants',[],(function a(b,c,d,e,f,g){'use strict';var h={LENGTH_LESS_THAN_15:'less than 15s',LENGTH_LESS_THAN_60:'less than 60s',LENGTH_GREATER_THAN_60:'greater than 60s',HEIGHT_GREATER_THAN_340:'greater than 340px',HEIGHT_GREATER_THAN_1067:'greater than 1067px',WIDTH_GREATER_THAN_600:'greater than 600px'};f.exports=h;}),null);

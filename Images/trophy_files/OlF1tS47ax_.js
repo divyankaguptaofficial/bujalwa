@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["WAM5E"]); }
+
+__d('AdsAdgroupChildAttachmentsFieldMappingRecordUtils',['AdsAdgroupChildAttachmentsFieldMappingRecord','whitelistObjectKeys'],(function a(b,c,d,e,f,g){'use strict';function h(i,j){return new (c('AdsAdgroupChildAttachmentsFieldMappingRecord'))(c('whitelistObjectKeys')(i.toJS(),j.map(function(k){return k.name;})));}f.exports={selectFields:h};}),null);

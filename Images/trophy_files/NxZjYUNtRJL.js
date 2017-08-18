@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["VjJZe"]); }
+
+__d('AdsLeadGenFormEditorConditionalAnswerSetUploadHeader.react',['fbt','AdsHelpLink.react','React','SUIText.react'],(function a(b,c,d,e,f,g,h){'use strict';var i=function j(){return c('React').createElement('div',null,c('React').createElement(c('SUIText.react'),{size:'medium'},h._("Add a Conditional Answer Set")),c('React').createElement(c('AdsHelpLink.react'),{position:'above',width:285},h._("Create a set of questions with conditional answers that change based on how someone answered a previous question.")));};f.exports=i;}),null);

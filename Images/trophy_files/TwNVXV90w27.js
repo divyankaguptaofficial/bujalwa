@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["22TeC"]); }
+
+__d('compose',[],(function a(b,c,d,e,f,g){function h(){for(var i=arguments.length,j=Array(i),k=0;k<i;k++)j[k]=arguments[k];if(j.length<2)throw new Error('Compose expects two or more functions as arguments.');var l=j.reverse(),m=l[0],n=l[1],o=l.slice(2),p=function q(){return n(m.apply(undefined,arguments));};return o.length===0?p:h.apply(undefined,[p].concat(o).reverse());}f.exports=h;}),null);
+__d('getErrorNameFromWebGLErrorCode',[],(function a(b,c,d,e,f,g){var h={'0':'NO_ERROR','1280':'INVALID_ENUM','1281':'INVALID_VALUE','1282':'INVALID_OPERATION','1285':'OUT_OF_MEMORY','1286':'INVALID_FRAMEBUFFER_OPERATION','37442':'CONTEXT_LOST_WEBGL'};function i(j){if(!(j in h))return 'UNKNOWN_ERROR';return h[j];}f.exports=i;}),null);
