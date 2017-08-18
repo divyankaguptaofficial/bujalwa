@@ -43,6 +43,10 @@ body{
 	text-decoration: none;
 }
 
+.container3:hover {
+	opacity: .5;
+}
+
 
 /*website logo start*/
 
